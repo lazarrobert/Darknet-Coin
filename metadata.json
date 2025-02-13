@@ -1,0 +1,20 @@
+{
+  "name": "Darknet Coin",
+  "symbol": "DNC",
+  "description": "The Ultimate Hacker Meme Coin",
+  "image": "https://raw.githubusercontent.com/lazarrobert/Darknet-Coin/main/darknet-coin.png",
+  "attributes": [
+    {
+      "trait_type": "Stealth",
+      "value": "100%"
+    },
+    {
+      "trait_type": "Anonymity",
+      "value": "Untraceable"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}
