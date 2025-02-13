@@ -1,20 +1,21 @@
 {
-  "name": "Darknet Coin",
-  "symbol": "DNC",
-  "description": "The Ultimate Hacker Meme Coin",
-  "image": "https://raw.githubusercontent.com/lazarrobert/Darknet-Coin/main/darknet-coin.png",
+  "name": "Redcoin",
+  "symbol": "RDC",
+  "description": "The Future of Digital Transactions",
+  "image": "https://raw.githubusercontent.com/lazarrobert/Redcoin/main/logo.png?raw=true",
+  "alternative_image": "https://github.com/lazarrobert/Redcoin/raw/main/logo.png",
   "attributes": [
     {
-      "trait_type": "Stealth",
-      "value": "100%"
+      "trait_type": "Speed",
+      "value": "Lightning-Fast"
     },
     {
-      "trait_type": "Anonymity",
-      "value": "Untraceable"
+      "trait_type": "Security",
+      "value": "Military-Grade Encryption"
     },
     {
-      "trait_type": "Rarity",
-      "value": "Legendary"
+      "trait_type": "Decentralization",
+      "value": "100% Community-Driven"
     }
   ]
 }
